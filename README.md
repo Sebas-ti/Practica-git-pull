@@ -1,2 +1,2 @@
-# Practica-git-pull
-Practiva git pull
+# Practica-git-pull(modificacion)
+Practiva git pull(modificacion)
